@@ -102,8 +102,6 @@ body.dark .nav-link.active {
   border-bottom: 2px solid var(--secondary);
 }
 
-
-
 /* Dark Mode Toggle */
 .toggle-theme input {
   display: none;
@@ -353,7 +351,7 @@ body.dark .skill i {
   color: var(--secondary, #00adb5);
 }
 
-/* 🌙 Dark Mode: Heading */
+/*  Dark Mode: Heading */
 body.dark .about-content h2 {
   color: var(--secondary, #00adb5);
 }
@@ -526,8 +524,6 @@ body.dark .view-all .btn:hover {
   color: #121212;
 }
 
-
-
 /* Responsive */
 @media (max-width: 768px) {
   .about-content h2 {
@@ -556,10 +552,6 @@ body.dark .view-all .btn:hover {
     animation-duration: 25s;
   }
 }
-
-
-
-
 
 /* Responsive */
 @media (max-width: 768px) {
