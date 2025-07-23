@@ -6,8 +6,7 @@ Welcome to the official repository of my personal portfolio website — a fully 
 
 ##  Live Demo
 
-[👉 View Live Website](https://aadil-port.netlify.app/#)  
-_(Replace with actual deployment link)_
+[ View Live Website](https://aadil-port.netlify.app/#)  
 
 ---
 
@@ -42,13 +41,6 @@ _(Replace with actual deployment link)_
 ├── index.html
 ├── style.css
 ├── script.js
-
-
----
-
-## 🖼️ Screenshots
-
-> _Add 1-2 screenshots here if desired (home, projects, contact sections in light & dark mode)._
 
 ---
 
